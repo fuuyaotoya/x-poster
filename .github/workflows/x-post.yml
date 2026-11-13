@@ -1,4 +1,4 @@
-# Posts approved, due rows of derivatives/x/queue.tsv to @ThemeMISELL (X API has no scheduling).
+# v2 — Posts approved, due rows of derivatives/x/queue.tsv to @ThemeMISELL (X API has no scheduling).
 # Public repo: Actions minutes are free, so we run exactly at the three launchd-equivalent times.
 # JST 12:11, 12:41, 22:11  ==  UTC 03:11, 03:41, 13:11. GitHub cron can start late; the script
 # posts rows up to 6h late and marks older ones "missed".
